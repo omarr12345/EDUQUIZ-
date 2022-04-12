@@ -1,0 +1,18 @@
+1- you should setup xampp as a server to run php on it.
+2- after setup, open the program and click on start apache and start mysql.
+3- open c/xampp/htdocs and locate the EDUQUIZ- folder on it .
+4-open google chrome.
+5-type localhost/phpmyadmin and click import then chose file and choose gp.sql to setup the database
+6-type localhost/eduquiz/signup/signup2.php "to open the signup page"
+7-type localhost/eduquiz/login/login.php "to open the login page"
+8- if you login as admin you will be transferred to the admin page .
+9- if you login as student you will be transferred to student page .
+10- if you click math or science or any other subject tab you will go directly to quiz that you will solve and took your grade.
+11- if you click "insert question to subject quiz" you will be transferred to html page to insert your question .
+12- after you insert the question you will open the folder located in c/xampp/htdocs/eduquiz/physicsquestions"or any subject"/file.xml.
+13- after opening it you find the question you inserted in the bottom of the page.
+14- ctrl-x it and ctrl-v it into the question bank tagg .
+15- change it's id to increment by 1 by the last id "for example if the last question id is 16 the new question you have inserted id will be 17"
+16-click ctrl-s and try to reach the quiz again from by typing this link on google chrome "localhost/eduquiz/physicsquestions"or any other subject"/index.html
+17- you will find that the question is added to the quiz and you will be able to solve the quiz now .
+18-thank  you. 

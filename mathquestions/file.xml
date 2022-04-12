@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionbank>
+
+  <question id="11">
+        <title>1+1</title>
+        <answer1>2</answer1>
+        <answer2>3</answer2>
+        <answer3>4</answer3>
+        <answer4>5</answer4>
+        <correct>2</correct>
+  </question>
+  
+	 <question id="12">
+        <title>1*1</title>
+        <answer1>1</answer1>
+        <answer2>2</answer2>
+        <answer3>3</answer3>
+        <answer4>4</answer4>
+        <correct>1</correct>
+  </question>
+  
+    <question id="13">
+        <title>15/5 :</title>
+        <answer1>1</answer1>
+        <answer2>2</answer2>
+        <answer3>3</answer3>
+        <answer4>4</answer4>
+        <correct>3</correct>
+  </question>
+  
+
+    <question id="14">
+        <title>2*2*2</title>
+        <answer1>6</answer1>
+        <answer2>12</answer2>
+        <answer3>8</answer3>
+        <answer4>9</answer4>
+        <correct>8</correct>
+  </question>
+  
+ 
+    <question id="15">
+        <title>15/5-5*2</title>
+        <answer1>-5</answer1>
+        <answer2>-7</answer2>
+        <answer3>-9</answer3>
+        <answer4>-11</answer4>
+        <correct>-7</correct>
+  </question>
+  
+  <question id="16">
+        <title>15/5-5*1</title>
+        <answer1>-2</answer1>
+        <answer2>-7</answer2>
+        <answer3>-9</answer3>
+        <answer4>-11</answer4>
+        <correct>-2</correct>
+  </question>
+    
+ 
+
+</questionbank>

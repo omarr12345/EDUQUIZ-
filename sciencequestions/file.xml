@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionbank>
+
+  <question id="11">
+        <title>h2o?</title>
+        <answer1>Oxyegen</answer1>
+        <answer2>carbon</answer2>
+        <answer3>color</answer3>
+        <answer4>borom</answer4>
+        <correct>Oxyegen</correct>
+  </question>
+  
+	<question id="12">
+		<title>co2?</title>
+		<answer1>Oxyegen </answer1>
+        <answer2>carbon</answer2>
+        <answer3>color</answer3>
+        <answer4>borom</answer4>
+        <correct>carbon</correct>
+	</question>
+	<question id="13">
+		<title>br?</title>
+		<answer1>Oxyegen </answer1>
+        <answer2>carbon</answer2>
+        <answer3>color</answer3>
+        <answer4>borom</answer4>
+        <correct>borom</correct>
+	</question>
+	<question id="14">
+		<title>cl?</title>
+		<answer1>Oxyegen </answer1>
+        <answer2>carbon</answer2>
+        <answer3>color</answer3>
+        <answer4>borom</answer4>
+        <correct>color</correct>
+	</question>
+
+     
+
+
+</questionbank>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionbank>
+
+  <question id="11">
+        <title>A company's microenvironment, the ' customer markets' are of</title>
+        <answer1>5 types </answer1>
+        <answer2>4 types</answer2>
+        <answer3>3 types</answer3>
+        <answer4>2 types</answer4>
+        <correct>5 types </correct>
+  </question>
+  
+	<question id="12">
+		<title>The markets in which the market offerings are bought from sellers for reselling purpose are known as</title>
+		<answer1>business markets</answer1>
+		<answer2>reseller markets</answer2>
+		<answer3>government markets</answer3>
+		<answer4>international markets</answer4>
+		<correct>reseller markets</correct>
+	</question>
+	<question id="13">
+		<title>HIn macro environment, the 'pressure groups' and 'government agencies' are part of</title>
+		<answer1>the cultural environment</answer1>
+		<answer2>the demographic environment</answer2>
+		<answer3>the economic environment</answer3>
+		<answer4>the political environment</answer4>
+		<correct>the political environment</correct>
+	</question>
+	<question id="14">
+		<title>A company's microenvironment, the 'general publics' consists of</title>
+		<answer1>minority groups</answer1>
+		<answer2>stockholders</answer2>
+		<answer3>Community organizations</answer3>
+		<answer4>public image</answer4>
+		<correct>public image</correct>
+	</question>
+
+     <question id="15">
+       <title>A company's microenvironment does not include</title>
+	   <answer1>The company</answer1>
+       <answer2>The marketing intermediaries</answer2>
+       <answer3>Demographic forces</answer3>
+       <answer4>The organization's suppliers</answer4>
+        <correct>Demographic forces</correct>
+        </question>
+
+
+
+</questionbank>
